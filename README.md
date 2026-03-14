@@ -1,21 +1,19 @@
-# java-practice
+# Java Practice
 
-## Introduction
-A light implementation for practicing Java concepts and coding exercises.
+## Overview
+This repository contains implementations for practicing Java concepts.
 
 ## Features
-- Basic algorithms and data structures
-- Sample applications
-- Unit tests included
+- Sample implementations of core Java concepts
+- Exercises for beginners to enhance their Java skills
 
-## Technical Stack
-- Java
-- JUnit
+## Technology Stack
+- Java for programming
+- Markdown for documentation
 
 ## Usage
-1. Clone the repository
-2. Compile the Java files
-3. Run the tests to see results
+Clone this repository and run the Java files to see implementations in action.
 
 ## Future Plans
-- Add more complex algorithms and design patterns.
+- Add more advanced Java topics.
+- Create a testing suite for the exercises.
